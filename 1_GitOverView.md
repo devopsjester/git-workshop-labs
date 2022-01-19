@@ -71,7 +71,7 @@ You should now see the following message
 
 > nothing to commit (create/copy files and use "git add" to track)
 
-6. Run **echo first line>newcode.cs** in order to create a new file
+6. Run **echo "first line" > newcode.cs** in order to create a new file
 
 > You will not get a response on the command line
 
