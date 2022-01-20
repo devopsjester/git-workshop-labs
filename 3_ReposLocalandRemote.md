@@ -91,7 +91,7 @@ You should see output that resembles the following:
 
 If you don't have an email address returned the run **git config user.email youremail@yourdomain.com**. You will not see any output. Run **git config user.email​** to verify the change.
 
-2. To see all global configurations run **git config --global -l**
+2. To see all global configurations run **git config --global -l**. Note that if you haven't configured anything globally, git might tell you that the .gitconfig file is missing.
 3. To see all local configurations run **git config --local -l**. Note that you should see a configuration for remote.origin.url=https://YOURACCOUNT@dev.azure.com/YOURACCOUNT/PartsUnlimited/_git/PartsUnlimited**. This configuration was set by the **git clone** command.
 
 ### Task 4: Viewing your local repository history
