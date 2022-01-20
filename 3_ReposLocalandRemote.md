@@ -49,7 +49,7 @@ If you have not yet run the Demo Generator see the "WorkshopPlus Azure DevOps Es
 
  1. Navigate to your team project on Azure DevOps such as, https://dev.azure.com/YOURACCOUNT/Parts%20Unlimited.
  2. We will want to disable continuous integration trigger before digging into Git.
- 3. Navigate to **(1)Pipelines | (2)Builds | (3)Edit**
+ 3. Navigate to **(1)Pipelines | (2)Pipelines | (3)Edit**
 
  ![enter image description here](content/buildpiplines.png)
 
