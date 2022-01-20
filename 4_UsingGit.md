@@ -116,7 +116,7 @@ You should now see the following message
 ### Task 1: Fetch any changes and push your changes.
 1. As a best practice, before pushing your changes you will want to see if there are any changes on the remote server that you don't have. 
 2. Run **git fetch** to view any changes that your team. 
-    Fetching changes does not merge the commits into your local repository, it just enumerates them. If there were any changes, you would need to pull them in to merge them with your local repository.
+    Fetching changes does not merge the commits into your working directory, it just downloads them. If there were any changes, you would need to pull them in to merge them with your local repository.
 
 3. Since there are no changes, run **git pull** anyway to go through the process.
 4. Run **git push** to share your changes. There are many options with the push command such as specifying the remote server by name if you have several. The default is **origin**.
